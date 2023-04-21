@@ -16,7 +16,7 @@ function Header() {
                 <img src={logo} alt="" />
             </div>
             <div className="headerRight">
-                <a href='https://github.com/hhhrrrttt222111/handReacting' target="_blank" rel="noopener noreferrer">
+                <a href='https://github.com/Ayush2966/Hand-Reacting' target="_blank" rel="noopener noreferrer">
                     <Tooltip title="Visit Github Repo" placement="bottom" TransitionComponent={Zoom}>
                         <GitHubIcon />
                     </Tooltip>
