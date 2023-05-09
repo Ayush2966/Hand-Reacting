@@ -1,5 +1,6 @@
 {
-  "name": "handwriting",
+  "name": "handreacting",
+  "author":"ayush jain",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
